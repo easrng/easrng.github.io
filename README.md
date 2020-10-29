@@ -1,1 +1,3 @@
-# homepage-redirect
+# Redirecting...
+<noscript>Don't have JS? np, <a href="https://easrng.us.to/">click here</a>.</noscript>
+<script>location.replace("https://easrng.us.to/")</script>
