@@ -1,3 +1,3 @@
 # Redirecting...
-<noscript>Don't have JS? np, <a href="https://easrng.us.to/">click here</a>.</noscript>
-<script>location.replace("https://easrng.us.to/")</script>
+<noscript>Don't have JS? np, <a href="https://easrng.net/">click here</a>.</noscript>
+<script>location.replace("https://easrng.net/")</script>
