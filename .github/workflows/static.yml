@@ -18,14 +18,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        run: "sh -c 'wget \"https://github.com/${GITHUB_REPOSITORY}/archive/${GITHUB_SHA}.tar.gz\" -O artifact.tar.gz'"
+        run: "sh -c 'wget \"https://github.com/${GITHUB_REPOSITORY}/archive/${GITHUB_SHA}.zip\" -O artifact.zip'"
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
         uses: actions/upload-artifact@v3.1.2
         with:
           name: github-pages
-          path: 'artifact.tar.gz'
+          path: 'artifact.zip'
           retention-days: 1
       - name: Deploy to GitHub Pages
         id: deployment
