@@ -1,0 +1,15 @@
+{
+	"@context": [
+		"https://www.w3.org/ns/activitystreams",
+		"https://w3id.org/security/v1"
+	],
+	"id": "https://easrng.github.io/actor.jsonld",
+	"type": "Person",
+	"preferredUsername": "static fedi test",
+	"inbox": "https://easrng.github.io/inbox",
+	"publicKey": {
+		"id": "https://easrng.github.io/actor.jsonld#main-key",
+		"owner": "https://easrng.github.io/actor.jsonld",
+		"publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzNTEqCu6brQaGhApCTIO\nsSt6/EWnLff5hJKIKs9uYDFJ1eWQ9RmShdjzu8AfoJOwqAcrCqfIlDi6yOOMGKMf\nraAZjuNB9nxxnH2FRqBij+8LPRJig3aqU7U6pyeuZfAjYmnUjeMUT8LXIpEJwc6N\nyRiyGesU+FP/daJtConzla6ETJt3DQa9rASdxBoMn46iOYugqJ7U9LGjLnUplN7A\nnxo5ttwiCu3seP9qhdo/jJ7taSB3Hb1cmJIkfaI8x2WrUidOMsFyOjiYUASu3opu\nrV8xflIunLlR8grmh92F5i3SeOS08xFoS8RCaEENGoymEbDI+oNeT5H+APM1D7e5\nzQIDAQAB\n-----END PUBLIC KEY-----"
+	}
+}
