@@ -5,7 +5,7 @@
 	],
 	"id": "https://easrng.github.io/actor.jsonld",
 	"type": "Person",
-	"preferredUsername": "static fedi test",
+	"preferredUsername": "actor",
 	"inbox": "https://easrng.github.io/inbox",
 	"publicKey": {
 		"id": "https://easrng.github.io/actor.jsonld#main-key",
